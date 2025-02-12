@@ -11,4 +11,4 @@ This project focuses on building a data pipeline to analyze job placement trends
 
 By creating a structured ETL (Extract, Transform, Load) pipeline, this project streamlines data preparation and analysis, offering valuable insights to students, universities, and recruiters. 🚀
 
-Dataset Link: <a href="https://www.kaggle.com/code/ayushtiwari2323/job-placement-eda"> View Dataset </a>
+Dataset Link: <a href="[https://www.kaggle.com/code/ayushtiwari2323/job-placement-eda](https://www.kaggle.com/datasets/mahad049/job-placement-dataset)"> View Dataset </a>
