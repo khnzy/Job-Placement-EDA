@@ -1,2 +1,10 @@
-# Job-Placement-EDA
-This project builds a data pipeline to analyze job placement trends among Bachelor's graduates in the USA. The dataset includes gender, age, field of study, university, placement status, salary, GPA, and experience.
+# Job Placement Analysis Pipeline
+This project focuses on building a data pipeline to analyze job placement trends among Bachelor's degree graduates in the USA. The dataset includes key attributes such as gender, age, field of study, university name, placement status, salary, GPA, and years of experience. By leveraging this data, the project aims to uncover insights into employment outcomes across different universities and fields of study.
+
+Project Goals:
+✔ Data Cleaning & Preprocessing – Ensure accuracy and consistency in the dataset.
+✔ Trend Analysis – Compare placement rates among universities and fields of study.
+✔ Factor Identification – Determine how GPA, experience, and other factors influence job placement.
+✔ Data Visualization – Present insights through graphs and dashboards for better interpretation.
+
+By creating a structured ETL (Extract, Transform, Load) pipeline, this project streamlines data preparation and analysis, offering valuable insights to students, universities, and recruiters. 🚀
