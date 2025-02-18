@@ -3,10 +3,10 @@ This project focuses on building a data pipeline to analyze job placement trends
 
 ## Project Goals:
 <ul>
-<li>Data Cleaning & Preprocessing – Ensure accuracy and consistency in the dataset(done)</li>
-<li>Trend Analysis – Compare placement rates among universities and fields of study(pending)</li>
-<li>Factor Identification – Determine how GPA, experience, and other factors influence job placement(done)</li>
-<li>Data Visualization – Present insights through graphs and dashboards for better interpretation(done)</li>
+<li>Data Cleaning & Preprocessing – Ensure accuracy and consistency in the dataset (done)</li>
+<li>Trend Analysis – Compare placement rates among universities and fields of study (pending)</li>
+<li>Factor Identification – Determine how GPA, experience, and other factors influence job placement( done)</li>
+<li>Data Visualization – Present insights through graphs and dashboards for better interpretation (done)</li>
 </ul>
 
 By creating a structured ETL (Extract, Transform, Load) pipeline, this project streamlines data preparation and analysis, offering valuable insights to students, universities, and recruiters. <br><br>
